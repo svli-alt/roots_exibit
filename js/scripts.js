@@ -44,7 +44,7 @@ window.addEventListener('DOMContentLoaded', event => {
 });
 
 // Set the date we're counting down to --------------------------Event Countdown -------------------------------
-var countDownDate = new Date("Feb 9, 2024 17:00:00").getTime();
+var countDownDate = new Date("Feb 20, 2024 17:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
